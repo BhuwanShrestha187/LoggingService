@@ -1,0 +1,7 @@
+D:\Conestoga College\4th Semester\2. Network Application Development\3. Assignments\Assignments\Assignment 2\My Practice\TestClient\Client\Client\bin\Debug\Client.exe.config
+D:\Conestoga College\4th Semester\2. Network Application Development\3. Assignments\Assignments\Assignment 2\My Practice\TestClient\Client\Client\bin\Debug\Client.exe
+D:\Conestoga College\4th Semester\2. Network Application Development\3. Assignments\Assignments\Assignment 2\My Practice\TestClient\Client\Client\bin\Debug\Client.pdb
+D:\Conestoga College\4th Semester\2. Network Application Development\3. Assignments\Assignments\Assignment 2\My Practice\TestClient\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Conestoga College\4th Semester\2. Network Application Development\3. Assignments\Assignments\Assignment 2\My Practice\TestClient\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Conestoga College\4th Semester\2. Network Application Development\3. Assignments\Assignments\Assignment 2\My Practice\TestClient\Client\Client\obj\Debug\Client.exe
+D:\Conestoga College\4th Semester\2. Network Application Development\3. Assignments\Assignments\Assignment 2\My Practice\TestClient\Client\Client\obj\Debug\Client.pdb

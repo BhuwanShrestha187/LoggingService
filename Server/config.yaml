@@ -1,0 +1,25 @@
+#At first store the server_settings
+server_settings:
+  ipAddress : "127.0.0.1"
+  port : 8080
+  bufferSize : 2048
+  message_delimiter: "|"
+
+#Index to be applied for log messages
+time_index: 0
+client_id_index: 1
+log_level_index: 2
+message_index : 3
+
+#Log file settings:
+log_file_settings:
+  filename: "PythonLogService.log"
+  logDirectory: "./logs/"
+  log_time_format: "%Y/%m/%d %H:%M:%S"
+  log_format: "{time} {id} {log_level} \t{message}\n"
+  log_levels: { 0: "ALL", 1: "DEBUG", 2: "INFO", 3: "WARNING", 4: "ERROR", 5: "FATAL", 6: "TRACE"}
+
+
+#Noise Handlings
+max_number_of_messages: 100
+time_limit: 60
